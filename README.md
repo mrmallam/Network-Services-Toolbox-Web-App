@@ -1,5 +1,4 @@
 # Network Services Toolbox Web Application
-Web application for managing network devices, featuring device management, firewall controls, and MySQL database design with PHP and HTML user interface.
 
 A web application with two types of users (Admin and Client) that manages network devices such as modems and routers, including functionality for adding and updating devices, a firewall that blocks specific ports or websites, and a MySQL database with a functional design and DFD created using a HIPO diagram, utilizing PHP as the backend and HTML for the user interface.
 
